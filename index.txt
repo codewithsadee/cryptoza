@@ -1,0 +1,255 @@
+Cryptoza - Trusted & Secure Trading Crypto Wallet
+
+This is a cryptocurrency wallet html template made by codewithsadee.
+
+
+
+#---------- HEADER ----------#
+
+alt = Cryptoza home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Services
+Resources
+Pricing
+Company
+
+Sign In
+Get Started
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Trusted & Secure Trading Crypto Wallet
+
+You might wonder why a designer would choose to use Morem text Paragraphs in English or their native language.
+ 
+Get Started
+
+<ion-icon name="play" aria-hidden="true"></ion-icon>
+How it works
+
+alt = hero banner
+
+
+
+#---------- PROMO ----------#
+
+Most Trusted Cryptocurrency Platform
+
+A cryptocurrency is a tradable digital asset or digital form of money, built on blockchain technology that only exists online.
+
+<ion-icon name="share-social-outline" aria-hidden="true"></ion-icon>
+Best Trading Platform
+
+Cryptocurrency does not exist in physical form like paper money and is typically not issued by a central authority.
+
+Explore More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+<ion-icon name="pricetags-outline" aria-hidden="true"></ion-icon>
+Transparent Pricing
+
+<ion-icon name="shield-checkmark-outline" aria-hidden="true"></ion-icon>
+Trusted Security
+
+
+
+#---------- STATS ----------#
+
+Our Best Users Are all over the Worldwide Coverage
+
+You might wonder why a designer would choose to use Morem text Paragraphs Lorem Ipsum available but the majority
+
+embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.
+
+150k+
+Pepole who Have Joined
+
+45k+
+
+16k+
+Pepole Joined Altrawallet
+
+alt = map
+
+
+
+#---------- MARKET ----------#
+
+Crypto Market Live Price
+
+Marrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined true generator.
+
+Cryptocurrency
+USD Price
+1h % Change
+24h % Change
+7d % Change
+
+alt = BTC
+Bitcoin
+BTC
+39000
+
+<ion-icon name="caret-down" aria-hidden="true"></ion-icon>
+-0.04%
+-3.26%
+-7.82%
+
+alt = ETH
+Ethereum
+ETH
+2896
+
+-0.6%
+-4.73%
+-8.89%
+
+alt = USDT
+Tether
+USDT
+1
+
+-0.01%
+-0.05%
+-0.04%
+
+alt = BNB
+Tether
+USDT
+398
+
+-0.27%
+-3.92%
+-4.57%
+
+alt = USDC
+USD Coin
+USDC
+0
+
+-0.04%
+-0.13%
+<ion-icon name="caret-up" aria-hidden="true"></ion-icon>
+0.05%
+
+alt = XRP
+XRP
+XRP
+0
+
+-0.3%
+-5.71%
+-1.18%
+
+alt = SOL
+Solana
+SOL
+95
+
+-0.81%
+-6.06%
+-13.66%
+
+alt = ADA
+Cardana
+ADA
+0
+
+<ion-icon name="caret-up" aria-hidden="true"></ion-icon>
+0.34%
+-7.43%
+-13.43%
+
+alt = LUNA
+Terra
+LUNA
+76
+
+-0.21%
+-6.12%
+-13.79%
+
+alt = AVAX
+Avalanche
+AVAX
+73
+
+-0.63%
+-6.23%
+-11.01%
+
+
+
+#---------- CTA ----------#
+
+Start Trading on Quiety
+
+If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small.
+
+Read Reviews
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- INSTRUCTION ----------#
+
+How it All Started
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected
+
+alt = icon
+
+In publishing and graphic design, Lorem used to demonstrate the visual form of relying on meaningful content.
+
+
+
+#---------- DOWNLOAD ----------#
+
+Also Available on IOS & Android
+
+This site regularly and would like to help keep the site on the Internet please consider donating a small.
+
+<ion-icon name="logo-google-playstore" aria-hidden="true"></ion-icon>
+
+Available on the
+Play Store
+
+<ion-icon name="logo-apple" aria-hidden="true"></ion-icon> 
+Apple Store
+
+alt = download banner
+
+
+
+#---------- FOOTER ----------#
+
+alt = Cryptoza home
+
+Bitcoin, first released as open-source software in is the first decentralized cryptocurrency. Since the release of bitcoin
+
+Home
+About
+Market
+Trading
+Team
+
+Join the Conversation
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-dribbble"></ion-icon>
+<ion-icon name="logo-behance"></ion-icon>
+   
+Copyright codewithsadee 2022. All rights reserved.
+
+Support
+Privacy Policy
