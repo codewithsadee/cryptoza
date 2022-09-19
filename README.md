@@ -9,9 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">Cryptoza - Blog Website</h2>
+  <h2 align="center">Cryptoza - Cryptocurrency Wallet Website</h2>
 
-  Cryptoza is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Cryptoza is a fully responsive cryptocurrency wallet website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/cryptoza/"><strong>➥ Live Demo</strong></a>
 
